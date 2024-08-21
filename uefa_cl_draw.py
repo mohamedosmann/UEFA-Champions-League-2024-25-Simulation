@@ -183,6 +183,7 @@ if page == "View Standings":
         st.table(standings_table)
     else:
         st.warning("No standings available. Please simulate matches first.")
+        st.write("© 2024 Mohamed Osman & UEFA Champions League. All rights reserved.")
 
 # Reset Option
 if st.sidebar.button("Reset All"):
