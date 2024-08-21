@@ -1,5 +1,5 @@
 # UEFA-Champions-League-2024-25-Simulation
-# UEFA Champions League 2024-25 Simulation
+
 
 This project is an interactive web application that simulates the UEFA Champions League 2024-25 season. The app allows users to view seeding pots, generate a match draw, simulate matches, and view standings. The app is built using Streamlit and allows for easy deployment on platforms like Streamlit Sharing or any cloud provider.
 
@@ -22,5 +22,5 @@ This project is an interactive web application that simulates the UEFA Champions
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/uefa-cl-draw.git
+   https://github.com/mohamedosmann/UEFA-Champions-League-2024-25-Simulation.git
    cd uefa-cl-draw
